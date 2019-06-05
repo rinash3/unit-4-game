@@ -1,0 +1,20 @@
+h1 {
+    color: blueviolet;
+}
+
+.Crystals,
+.finalScore,
+.row,
+.howtoplay {
+    margin-left: 20px;
+}
+
+.winsLoss-column {
+    background-color: aqua;
+    margin: 10px;
+}
+
+.randomNumber-column {
+    background-color: bisque;
+    margin: 10px;
+}
